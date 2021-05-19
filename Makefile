@@ -7,7 +7,7 @@ coverage:  ## Run tests with coverage
 	coverage report -m
 
 deps:  ## Install dependencies
-	pip install black coverage flake8 mccabe mypy pylint pytest tox
+	pip install black coverage flake8 flit mccabe mypy pylint pytest tox
 
 lint:  ## Lint and static-check
 	flake8 kbase_report_state
