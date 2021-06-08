@@ -7,7 +7,7 @@
 
 <!-- Badges -->
 
-[pypi-image]: https://img.shields.io/pypi/v/kbase_report_state
+[pypi-image]: https://img.shields.io/pypi/v/kbase_report_state?color=brightgreen&logo=python&logoColor=white
 [pypi-url]: https://pypi.org/project/kbase_report_state/
 [build-image]: https://github.com/kbaseIncubator/kbase_report_state/actions/workflows/build.yml/badge.svg
 [build-url]: https://github.com/kbaseIncubator/kbase_report_state/actions/workflows/build.yml
